@@ -1,0 +1,23 @@
+{
+
+  "name": "Soapbot",
+
+  "description": "Test",
+
+  "version": "1.0.0",
+
+  "main": "soapBot.py",
+
+  "scripts": {
+
+    "start": "python soapBot.py"
+
+  },
+
+  "dependencies": {
+
+    "discord.py": "1.2.3",
+
+  }
+
+}
