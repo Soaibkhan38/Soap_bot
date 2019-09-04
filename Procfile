@@ -1,1 +1,1 @@
-worker: python soapBot.py
+web python soapBot.py
