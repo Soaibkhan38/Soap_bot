@@ -49,7 +49,7 @@ async def on_ready():
 	except Exception as e:
 		print(e)
 
-bot.run(BOT_TOKEN)
+bot.run(os.environ.get("BOT_TOKEN"))
 # pybot = Bot(command_prefix = ">")
 
 # @pybot.event
