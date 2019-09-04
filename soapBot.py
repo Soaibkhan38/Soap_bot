@@ -23,6 +23,7 @@
 
 # client.run(TOKEN)
 import discord
+import os
 # from discord import User
 # from discord.ext.commands import Bot
 
